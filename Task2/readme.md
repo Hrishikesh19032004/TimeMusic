@@ -74,26 +74,31 @@ graph TD
 - **Chart Type**: Horizontal bar chart
 - **Purpose**: Identifies most frequently appearing artists in search results
 - **Data Source**: Tracks data with artist name parsing
+<img width="1177" height="741" alt="image" src="https://github.com/user-attachments/assets/b1498f74-5373-470d-8b6b-b6ca4149d8a9" />
 
 ### 2. Temporal Trend Analysis
 - **Chart Type**: Line plot with markers
 - **Purpose**: Shows release patterns over time
 - **Insight**: Reveals music industry trends and peak release periods
+<img width="1177" height="570" alt="image" src="https://github.com/user-attachments/assets/6155589b-5dbb-45b6-b9fb-6dd3f6c723b6" />
 
 ### 3. Duration Distribution Analysis
 - **Chart Type**: Categorical bar chart
 - **Purpose**: Analyzes track length preferences
 - **Methodology**: Bins tracks into meaningful duration ranges
+<img width="1182" height="587" alt="image" src="https://github.com/user-attachments/assets/c08d2924-b0c4-423e-bdb5-132d1b95a26b" />
 
 ### 4. Album Comparison
 - **Chart Type**: Horizontal bar chart
 - **Purpose**: Compares album sizes by track count
 - **Focus**: Identifies comprehensive vs. single-focused releases
+<img width="1174" height="590" alt="image" src="https://github.com/user-attachments/assets/7403f78e-fd7a-46c6-ab49-5a105024d57d" />
 
 ### 5. Playlist Engagement Analysis
 - **Chart Type**: Horizontal bar chart
 - **Purpose**: Measures playlist popularity by track count
 - **Application**: Understanding user curation preferences
+<img width="1184" height="601" alt="image" src="https://github.com/user-attachments/assets/e6fecb29-ba91-4378-98fa-081a4f63c08d" />
 
 ## Technical Implementation
 

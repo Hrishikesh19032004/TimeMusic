@@ -1,4 +1,4 @@
-# Spotify Data Analysis Project
+# Spotify API Analysis: Search Query Based 
 
 ## Overview
 This project demonstrates a comprehensive approach to extracting, processing, and visualizing music data from Spotify's Web API. Using "Kabir Singh" as a search query, the project collects data across multiple Spotify content types and generates insightful visualizations to understand music trends and patterns.

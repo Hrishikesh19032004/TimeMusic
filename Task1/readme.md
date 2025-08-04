@@ -1,4 +1,4 @@
-# Spotify Playlist Analyzer
+# Spotify Featured Playlist Data 
 
 A Python-based web scraping tool that analyzes Spotify playlists by extracting detailed metadata and track information without requiring API access. The analyzer uses Selenium WebDriver for dynamic content loading and BeautifulSoup for HTML parsing.
 
